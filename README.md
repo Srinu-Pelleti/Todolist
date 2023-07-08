@@ -1,4 +1,4 @@
-# Legendary-To-Do-List
+# To-Do-List
 Simple To-Do list application. 
 
 ## Introduction
